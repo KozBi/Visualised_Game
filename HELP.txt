@@ -1,0 +1,11 @@
+List of command:
+"/move":
+You can choose the room you want to go to.
+"/me":
+It describes your inventory             
+"/get":
+After typing this command you need to write a item name, then you pick it.
+"/drop":    
+After typing this command you need to write a item name, then you drop it.
+"/use":               
+After typing this command you need to write a item name, then you use it. 
